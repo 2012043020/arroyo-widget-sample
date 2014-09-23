@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Arroyo widget sample
+#
+
+projectname: Arroyo widget sample
+vendorid: com.arroyo.widget.sample
+mainmodule: com.arroyo.widget.sample.arroyowidgetsample
